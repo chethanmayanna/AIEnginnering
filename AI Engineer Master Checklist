@@ -1,0 +1,86 @@
+AI Engineer Master Checklist (Approx. 400
+Concepts)
+ 
+1. Core AI & ML (50)
+AI, ML, DL, Supervised, Unsupervised, RL, Classification, Regression, Clustering,
+Decision Trees, Random Forests, SVM, Naive Bayes, KNN, Gradient Boosting, XGBoost,
+Neural Networks, CNN, RNN, LSTM, GRU, Transformers, Attention, Feature Engineering,
+Feature Selection, Data Cleaning, Data Augmentation, Cross Validation,
+Train/Validation/Test Split, Overfitting, Underfitting, Bias-Variance, Hyperparameter
+Tuning, Loss Functions, Optimizers, SGD, Adam, Precision, Recall, F1, ROC-AUC,
+Confusion Matrix, Explainability, SHAP, LIME, Model Evaluation, Transfer Learning,
+Active Learning, Semi-supervised Learning, Time Series, Anomaly Detection
+
+2. LLM & GenAI (50)
+Tokens, Tokenization, Context Window, Temperature, Top-p, Top-k, Max Tokens, Stop
+Sequences, Presence Penalty, Frequency Penalty, Logprobs, Prompt Engineering,
+System Prompt, User Prompt, Prompt Templates, Zero-shot, One-shot, Few-shot,
+Chain-of-Thought, Structured Output, JSON Mode, Function Calling, Tool Calling,
+Streaming, Hallucinations, Grounding, Safety, Moderation, Prompt Injection, Jailbreaks,
+Embeddings, Semantic Search, Fine-tuning, LoRA, PEFT, Quantization, Distillation,
+Inference, Batch Inference, Real-time Inference, Model Routing, Fallback Models,
+Multimodal, Vision Models, Speech Models, TTS, STT, Cost Optimization, Latency
+Optimization, Context Engineering
+
+3. RAG & Vector DB (50)
+RAG, Chunking, Chunk Overlap, Embeddings, Vector DB, Pinecone, Milvus, Weaviate,
+pgvector, Azure AI Search, HNSW, IVF, Hybrid Search, BM25, Reranking, Metadata
+Filtering, Similarity Search, Cosine Similarity, Dot Product, Euclidean Distance,
+Retrieval Pipeline, Knowledge Base, Document Parsing, OCR, PDF Parsing, Indexing,
+Incremental Indexing, Cache, Embedding Cache, Response Cache, Retrieval
+Evaluation, Ground Truth, Citation, Freshness, Data Connectors, Access Control,
+Multi-tenancy, Query Rewriting, Compression, Parent-Child Retrieval, Context
+Compression, Semantic Chunking, Ranking Metrics, Recall@K, Precision@K, MRR,
+nDCG, Graph RAG, Knowledge Graph, Agentic RAG
+
+4. Agents & MCP (50)
+AI Agents, Agentic AI, MCP, Tool Registry, Tool Selection, Planner, Executor, ReAct,
+Reflection, Self-Critique, Memory, Long-term Memory, Short-term Memory,
+Conversation Memory, Session State, Multi-Agent, Supervisor Agent, Worker Agent,
+Agent Communication, Workflow Agents, Autonomous Agents, Event-driven Agents,
+Function Calling, API Integration, Browser Tools, File Tools, Database Tools, Search
+Tools, Calendar Tools, Email Tools, Scheduling, Human-in-the-loop, Approval Flow, Task
+Decomposition, Goal Planning, State Machine, LangGraph, Semantic Kernel, AutoGen,
+CrewAI, Retry Logic, Idempotency, Context Sharing, Agent Observability, Guardrails,
+Sandboxing, Policy Engine, Tool Permissions, Evaluation, Agent Testing
+
+5. MLOps (50)
+ML Pipelines, CI/CD, Model Registry, Model Versioning, Prompt Versioning, Data
+Versioning, Experiment Tracking, MLflow, Kubeflow, Airflow, Feature Store,
+Deployment, Blue/Green, Canary, Rollback, Monitoring, Drift Detection, Concept Drift,
+Data Drift, Retraining, Batch Jobs, Online Serving, Autoscaling, GPU Scheduling,
+Kubernetes, Docker, FastAPI, REST APIs, gRPC, Logging, Metrics, Tracing, Alerting, A/B
+Testing, Shadow Testing, Resource Optimization, Secrets, IAM, Model Governance,
+Audit Logs, Cost Monitoring, SLA, SLO, SLI, Disaster Recovery, Backup, Infrastructure as
+Code, Terraform, Helm, GitOps
+6. AI System Design (50)
+Scalability, High Availability, Load Balancing, Queues, Kafka, SQS, EventBridge,
+Lambda, ECS, EKS, AKS, API Gateway, Microservices, Caching, Redis, CDN, Async
+Processing, Circuit Breaker, Retry, Exponential Backoff, DLQ, Orchestration, Workflow
+Engines, Step Functions, State Management, WebSockets, Streaming APIs, Rate
+Limiting, Multi-region, Multi-cloud, Observability, Capacity Planning, Cost Estimation,
+Performance Testing, Chaos Engineering, Feature Flags, Service Discovery, Config
+Management, Secrets Management, OAuth2, JWT, RBAC, Zero Trust, Encryption, Key
+Management, Network Security, Edge AI, Serverless, Data Pipelines, Integration
+Patterns
+
+7. AI Security & Responsible AI (50)
+Responsible AI, Fairness, Bias Detection, Explainability, Transparency, Privacy, PII
+Detection, Data Masking, GDPR, HIPAA, Consent, Copyright, Safety Policies, Toxicity
+Detection, Harm Categories, Prompt Filtering, Output Validation, Hallucination
+Detection, Grounding, Red Teaming, Threat Modeling, Prompt Injection Defense,
+Jailbreak Defense, Supply Chain Security, Model Security, API Security, IAM, Secrets
+Rotation, Encryption at Rest, Encryption in Transit, Secure Logging, Audit Trails,
+Governance, Compliance, Risk Assessment, Human Oversight, Abuse Detection,
+Watermarking, Provenance, Secure Deployment, Isolation, Tenant Security, Access
+Control, Content Safety, Policy Enforcement, Data Residency, Incident Response,
+Security Testing, Vulnerability Management, Ethics
+
+8. Cloud & Deployment (50)
+Azure AI Foundry, Azure OpenAI, Azure ML, AWS Bedrock, SageMaker, Vertex AI, Azure
+AI Search, Cloud Storage, Blob Storage, S3, GCS, Functions, Lambda, Cloud Run,
+Container Apps, Docker, Kubernetes, AKS, EKS, ECS, Terraform, Bicep, ARM,
+CloudWatch, Azure Monitor, Prometheus, Grafana, OpenTelemetry, GitHub Actions,
+Azure DevOps, Jenkins, ArgoCD, Helm, Nginx, Ingress, VPC, VNets, IAM, Entra ID,
+Secrets Manager, Key Vault, API Management, CDN, DNS, SSL/TLS, Autoscaling, Cost
+Management, FinOps, Backup, Disaster Recovery
